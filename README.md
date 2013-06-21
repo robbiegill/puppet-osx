@@ -25,6 +25,7 @@ Just `include` any of these in your manifest.
   navigating controls in dialogs
 * `osx::global::expand_print_dialog` - expand the print dialog by default
 * `osx::global::expand_save_dialog` - expand the save dialog by default
+* `osx::global::disable_natural_mouse_scrolling` - disables 'natural' mouse scrolling. *Requires re-login for new settings to initialize.*
 
 ### Dock Settings
 
